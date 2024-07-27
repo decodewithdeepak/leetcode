@@ -23,4 +23,5 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/decodewithdeepak/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
