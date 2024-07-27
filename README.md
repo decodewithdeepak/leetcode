@@ -19,4 +19,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/decodewithdeepak/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
