@@ -5,6 +5,7 @@ class Solution {
 
         int start = 0; // left pointer
         int end = s.length() - 1; // right pointer
+
         while(start < end) {
             if (s.charAt(start) != s.charAt(end)) {
                 return false;
@@ -13,5 +14,6 @@ class Solution {
             end--;
         }
         return true;
+
     }
 }
