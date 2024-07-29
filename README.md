@@ -24,11 +24,13 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0007-reverse-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/decodewithdeepak/leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/decodewithdeepak/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -45,4 +47,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
