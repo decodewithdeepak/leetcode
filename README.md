@@ -51,4 +51,5 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/decodewithdeepak/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
