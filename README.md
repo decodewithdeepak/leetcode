@@ -47,6 +47,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/decodewithdeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -66,6 +67,7 @@ Leetcode Solutions to the the problems i solved
 | [0075-sort-colors](https://github.com/decodewithdeepak/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/decodewithdeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/decodewithdeepak/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
