@@ -24,6 +24,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0007-reverse-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/decodewithdeepak/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
@@ -64,6 +65,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/decodewithdeepak/leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/decodewithdeepak/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -114,4 +116,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
