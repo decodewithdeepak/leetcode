@@ -71,6 +71,7 @@ Leetcode Solutions to the the problems i solved
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/decodewithdeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/decodewithdeepak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/decodewithdeepak/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
@@ -92,6 +93,7 @@ Leetcode Solutions to the the problems i solved
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/decodewithdeepak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -120,4 +122,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/decodewithdeepak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
