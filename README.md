@@ -82,6 +82,7 @@ Leetcode Solutions to the the problems i solved
 | [0485-max-consecutive-ones](https://github.com/decodewithdeepak/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/decodewithdeepak/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Union Find
 |  |
 | ------- |
