@@ -1,16 +1,6 @@
 class Solution {
-    public void rotate(int[][] matrix) {
-        // transpose of matrix
-        transposeMatrix(matrix);
-
-        // reverse each row of transposed matrix
-        for (int i = 0; i < matrix.length; i++) { // rows
-            reverseArray(matrix[i]);
-        }
-    }
-
-
-    public void transposeMatrix(int[][] matrix) {
+    public void rotate(int[][] matrix){
+        // Transpose of Matrix
         int r = matrix.length;
         int c = matrix[0].length;
 
@@ -21,18 +11,20 @@ class Solution {
                 matrix[j][i] = temp;
             }
         }
-    }
 
-    public void reverseArray(int[] arr) {
-        int i = 0, j = arr.length - 1;
+        // Reverse each row of transposed matrix
+        for (int i = 0; i < r; i++) {
+            int left = 0;
+            int right = c - 1;
 
-        while (i < j) {
-            int temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
+            while (left < right) {
+                int temp = matrix[i][left];
+                matrix[i][left] = matrix[i][right];
+                matrix[i][right] = temp;
 
-            i++; 
-            j--;
+                left++;
+                right--;
+            }
         }
     }
 
