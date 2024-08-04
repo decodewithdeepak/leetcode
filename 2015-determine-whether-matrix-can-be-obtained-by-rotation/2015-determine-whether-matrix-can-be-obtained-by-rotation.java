@@ -1,38 +1,29 @@
+import java.util.Arrays;
+
 class Solution {
-    public boolean findRotation(int[][] mat, int[][] target){
-        int r = mat.length;
-        int c = mat[0].length;
-
-        // 4 rotations
-        for (int k = 0; k < 4; k++){
-            // Transpose of Matrix
-            for (int i = 0; i < r; i++) {
-                for (int j = i + 1; j < c; j++) {
-                    int temp = mat[i][j];
-                    mat[i][j] = mat[j][i];
-                    mat[j][i] = temp;
-                }
-            }
-
-            // Reverse each row of transposed matrix
-            for (int i = 0; i < r; i++) {
-                int left = 0;
-                int right = c - 1;
-
-                while (left < right) {
-                    int temp = mat[i][left];
-                    mat[i][left] = mat[i][right];
-                    mat[i][right] = temp;
-
-                    left++;
-                    right--;
-                }
-            }
-
-            if (Arrays.deepEquals(mat, target)) {
+    public boolean findRotation(int[][] mat, int[][] target) {
+        int n = mat.length;
+        int[][] rotated = mat;
+        // Try all 4 rotations
+        for (int k = 0; k < 4; k++) {
+            if (Arrays.deepEquals(rotated, target)) {
                 return true;
-            }            
+            }
+            rotated = rotate90(rotated);
         }
         return false;
     }
+    
+    // Helper function to rotate the matrix by 90 degrees
+    public int[][] rotate90(int[][] mat) {
+        int n = mat.length;
+        int[][] rotated = new int[n][n];
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                rotated[j][n - 1 - i] = mat[i][j];
+            }
+        }
+        return rotated;
+    }
+
 }
