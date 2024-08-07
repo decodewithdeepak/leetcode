@@ -82,6 +82,7 @@ Leetcode Solutions to the the problems i solved
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/decodewithdeepak/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/decodewithdeepak/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -105,6 +106,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
