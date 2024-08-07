@@ -27,6 +27,7 @@ Leetcode Solutions to the the problems i solved
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/decodewithdeepak/leetcode/tree/master/0125-valid-palindrome) |
+| [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Leetcode Solutions to the the problems i solved
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
