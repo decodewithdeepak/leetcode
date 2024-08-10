@@ -1,51 +1,46 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = findFirstOccurrence(nums, target);
-        int last = findLastOccurrence(nums, target);
-        return new int[]{first, last};
-    }
-    
-    // Helper method to find the first occurrence of the target
-    public int findFirstOccurrence(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-        int firstOccurrence = -1;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (nums[mid] >= target) {
-                if (nums[mid] == target) {
-                    firstOccurrence = mid;
-                }
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-
-        return firstOccurrence;
+        int[] ans = {-1, -1};
+        ans[0] = findFirst(nums, target);
+        ans[1] = findLast(nums, target);
+        return ans;
     }
 
-    // Helper method to find the last occurrence of the target
-    public int findLastOccurrence(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-        int lastOccurrence = -1;
+    private int findFirst(int[] nums, int target) {
+        int start = 0;
+        int end = nums.length - 1;
+        int index = -1;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (nums[mid] <= target) {
-                if (nums[mid] == target) {
-                    lastOccurrence = mid;
-                }
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (target == nums[mid]) {
+                index = mid;
+                end = mid - 1; // search in the left half further
+            } else if (target > nums[mid]) {
+                start = mid + 1;
+            } else if (target < nums[mid]) {
+                end = mid - 1;
             }
         }
+        return index;
+    }
 
-        return lastOccurrence;
+    private int findLast(int[] nums, int target) {
+        int start = 0;
+        int end = nums.length - 1;
+        int index = -1;
+
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
+            if (target == nums[mid]) {
+                index = mid;
+                start = mid + 1; // search in the right half furtherb 
+            } else if (target > nums[mid]) {
+                start = mid + 1;
+            } else if (target < nums[mid]) {
+                end = mid - 1;
+            }
+        }
+        return index;
     }
 }
