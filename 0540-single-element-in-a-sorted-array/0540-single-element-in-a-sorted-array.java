@@ -1,9 +1,14 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        // Linear Search - O(n)
-        for (int i = 0; i < nums.length - 1; i += 2) {
-            if (nums[i] != nums[i + 1]) return nums[i];
+        // Binary Search - O(log n)
+        int start = 0, end = nums.length - 1;
+
+        while (start < end) {
+            int mid = start + (end - start) / 2;
+            if (mid % 2 == 1) mid--; // to make mid even
+            if (nums[mid] != nums[mid + 1]) end = mid; // single element in left half
+            else start = mid + 2; // single element in right half
         }
-        return nums[nums.length - 1]; // last element is single
+        return nums[start];
     }
 }
