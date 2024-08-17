@@ -1,19 +1,20 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if (s.length() != t.length()) return false;
-
-        int[] mapS = new int[256];
-        int[] mapT = new int[256];
+        HashMap<Character, Character> map = new HashMap<>(); 
+        // Key: character from s, Value: character from t
 
         for (int i = 0; i < s.length(); i++) {
-            char charS = s.charAt(i);
-            char charT = t.charAt(i);
-
-            if (mapS[charS] != mapT[charT]) return false;
-
-            mapS[charS] = i + 1;
-            mapT[charT] = i + 1;
+            char sCh = s.charAt(i);
+            char tCh = t.charAt(i);
+            if (map.containsKey(sCh)) { // check if sCh is already mapped
+                if (map.get(sCh) != tCh) return false;
+            } else if (map.containsValue(tCh)) { // check if tCh is already mapped
+                return false;
+            } else {
+                map.put(sCh, tCh); // add mapping of sCh and tCh
+            }
         }
         return true;
+        // TC: O(n) | SC: O(1) - n is the length of the strings
     }
 }
