@@ -1,10 +1,12 @@
+import java.util.HashMap;
+
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         if (s.length() != t.length()) return false;
 
         HashMap<Character, Character> map = new HashMap<>();
-        HashSet<Character> mappedChars = new HashSet<>();
-
+        // Key - Character from s, Value - Character from t
+        
         for (int i = 0; i < s.length(); i++) {
             char charS = s.charAt(i);
             char charT = t.charAt(i);
@@ -12,9 +14,8 @@ class Solution {
             if (map.containsKey(charS)) {
                 if (map.get(charS) != charT) return false;
             } else {
-                if (mappedChars.contains(charT)) return false;
+                if (map.containsValue(charT)) return false;
                 map.put(charS, charT);
-                mappedChars.add(charT);
             }
         }
         return true;
