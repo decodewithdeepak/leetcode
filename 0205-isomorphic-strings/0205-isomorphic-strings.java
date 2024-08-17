@@ -1,15 +1,21 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        // TC: O(n) | SC: O(1) - n is the length of the strings
         if (s.length() != t.length()) return false;
-        int[] sMap = new int[128]; // map to store the mapping of characters from s to t
-        int[] tMap = new int[128]; // map to store the mapping of characters from t to s
+
+        HashMap<Character, Character> map = new HashMap<>();
+        HashSet<Character> mappedChars = new HashSet<>();
+
         for (int i = 0; i < s.length(); i++) {
-            char sChar = s.charAt(i);
-            char tChar = t.charAt(i);
-            if (sMap[sChar] != tMap[tChar]) return false; // if the mapping is different
-            sMap[sChar] = i + 1; // store the index of the character
-            tMap[tChar] = i + 1; // store the index of the character
+            char charS = s.charAt(i);
+            char charT = t.charAt(i);
+
+            if (map.containsKey(charS)) {
+                if (map.get(charS) != charT) return false;
+            } else {
+                if (mappedChars.contains(charT)) return false;
+                map.put(charS, charT);
+                mappedChars.add(charT);
+            }
         }
         return true;
     }
