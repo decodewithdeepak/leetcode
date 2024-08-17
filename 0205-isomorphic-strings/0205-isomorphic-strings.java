@@ -1,7 +1,7 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
         HashMap<Character, Character> map = new HashMap<>(); 
-        // Key: character from s, Value: character from t
+        // key: character from s, value: character from t
 
         for (int i = 0; i < s.length(); i++) {
             char sCh = s.charAt(i);
@@ -15,6 +15,6 @@ class Solution {
             }
         }
         return true;
-        // TC: O(n) | SC: O(1) - n is the length of the strings
+        // TC: O(n) | SC: O(n) - n is the length of the strings
     }
 }
