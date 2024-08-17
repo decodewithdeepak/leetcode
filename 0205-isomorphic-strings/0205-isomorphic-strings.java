@@ -1,26 +1,16 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if (s.length() != t.length()) {
-            return false;
-        }
-
-        int[] mapST = new int[256];
-        int[] mapTS = new int[256];
-
+        // TC: O(n) | SC: O(1) - n is the length of the strings
+        if (s.length() != t.length()) return false;
+        int[] sMap = new int[128]; // map to store the mapping of characters from s to t
+        int[] tMap = new int[128]; // map to store the mapping of characters from t to s
         for (int i = 0; i < s.length(); i++) {
-            char c1 = s.charAt(i);
-            char c2 = t.charAt(i);
-
-            if (mapST[c1] == 0 && mapTS[c2] == 0) {
-                mapST[c1] = c2;
-                mapTS[c2] = c1;
-            } else if (mapST[c1] != c2 || mapTS[c2] != c1) {
-                return false;
-            }
+            char sChar = s.charAt(i);
+            char tChar = t.charAt(i);
+            if (sMap[sChar] != tMap[tChar]) return false; // if the mapping is different
+            sMap[sChar] = i + 1; // store the index of the character
+            tMap[tChar] = i + 1; // store the index of the character
         }
-
         return true;
     }
-
-
 }
