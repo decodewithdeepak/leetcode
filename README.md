@@ -48,6 +48,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0125-valid-palindrome](https://github.com/decodewithdeepak/leetcode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
+| [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,4 +171,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
