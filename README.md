@@ -52,6 +52,7 @@ Leetcode Solutions to the the problems i solved
 | [0125-valid-palindrome](https://github.com/decodewithdeepak/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/decodewithdeepak/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
 | [0812-rotate-string](https://github.com/decodewithdeepak/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -117,6 +118,7 @@ Leetcode Solutions to the the problems i solved
 | [0075-sort-colors](https://github.com/decodewithdeepak/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -126,6 +128,7 @@ Leetcode Solutions to the the problems i solved
 | [0128-longest-consecutive-sequence](https://github.com/decodewithdeepak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/decodewithdeepak/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
