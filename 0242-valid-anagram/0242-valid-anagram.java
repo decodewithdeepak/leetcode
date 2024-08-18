@@ -1,16 +1,21 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        // Better Approach Using HashMap - TC: O(n) | SC: O(n)
+        // Optimal Approach Using Frequency Array - TC: O(n) | SC: O(1)
         if (s.length() != t.length()) return false;
-        HashMap<Character, Integer> map = new HashMap<>(); // Key: character, Value: frequency
-        for (char c : s.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+        int[] freq = new int[26]; // frequency array
+
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
-        for (char c : t.toCharArray()) {
-            if (!map.containsKey(c)) return false;
-            map.put(c, map.get(c) - 1);
-            if (map.get(c) == 0) map.remove(c);
+
+        for (char ch : t.toCharArray()) {
+            freq[ch - 'a']--;
         }
-        return map.isEmpty();
+
+        for (int f : freq) {
+            if (f != 0) return false;
+        }
+
+        return true;
     }
 }
