@@ -49,6 +49,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/decodewithdeepak/leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/decodewithdeepak/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/decodewithdeepak/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/decodewithdeepak/leetcode/tree/master/0205-isomorphic-strings) |
@@ -83,6 +84,7 @@ Leetcode Solutions to the the problems i solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/decodewithdeepak/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/decodewithdeepak/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -115,6 +117,7 @@ Leetcode Solutions to the the problems i solved
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/decodewithdeepak/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/decodewithdeepak/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
@@ -124,6 +127,7 @@ Leetcode Solutions to the the problems i solved
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/decodewithdeepak/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/decodewithdeepak/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
