@@ -202,4 +202,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/decodewithdeepak/leetcode/tree/master/0812-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
