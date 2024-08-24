@@ -26,6 +26,7 @@ Leetcode Solutions to the the problems i solved
 | [0009-palindrome-number](https://github.com/decodewithdeepak/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/decodewithdeepak/leetcode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/decodewithdeepak/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
@@ -55,6 +56,7 @@ Leetcode Solutions to the the problems i solved
 | [0058-length-of-last-word](https://github.com/decodewithdeepak/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/decodewithdeepak/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/decodewithdeepak/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/decodewithdeepak/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
