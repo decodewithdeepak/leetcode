@@ -24,6 +24,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0007-reverse-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/decodewithdeepak/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/decodewithdeepak/leetcode/tree/master/0069-sqrtx) |
@@ -54,6 +55,7 @@ Leetcode Solutions to the the problems i solved
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/decodewithdeepak/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -140,6 +142,7 @@ Leetcode Solutions to the the problems i solved
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/decodewithdeepak/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0073-set-matrix-zeroes) |
