@@ -1,18 +1,22 @@
 class Solution {
     public boolean check(int[] nums) {
         int n = nums.length;
-        // only one pair should exist
-        int noOfPair = 0;
-        for (int i = 1; i < n; i++) {
-            if (nums[i-1] > nums[i]) {
-                noOfPair++;
+        int count = 0; // count of pairs
+
+        for(int i=0; i<n-1; i++){
+            if(nums[i]>nums[i+1]){
+                count++;
             }
         }
-        // now compare first and last element (cyclic)
+
         if(nums[n-1] > nums[0]){
-            noOfPair++;
+            count++;
         }
 
-        return noOfPair <= 1;  // <1 if all elemnts are same
+        if(count>1){
+            return false;
+        }
+        
+        return true;
     }
 }
