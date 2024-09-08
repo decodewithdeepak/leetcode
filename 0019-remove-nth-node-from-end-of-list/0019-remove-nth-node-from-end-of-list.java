@@ -1,6 +1,3 @@
-
-import java.util.List;
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -16,21 +13,25 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
 
+        // move fast by n
         for (int i = 1; i <= n; i++) {
             fast = fast.next;
         }
 
+        // if fast is null, remove head
         if (fast == null) {
             return head.next;
         }
 
+        // move slow and fast till fast reaches end
         while (fast.next != null) {
             slow = slow.next;
             fast = fast.next;
         }
 
+        // remove the nth node
         slow.next = slow.next.next;
 
-        return head;
+        return head;   
     }
 }
