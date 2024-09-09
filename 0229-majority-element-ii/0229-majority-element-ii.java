@@ -1,22 +1,16 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        // Using Sorting - O(nlogn)
-        Arrays.sort(nums);
+        // Using HashMap - O(n)
         List<Integer> ans = new ArrayList<>();
         int n = nums.length;
-        int count = 1;
-        for(int i=1; i<n; i++){
-            if(nums[i] == nums[i-1]){
-                count++;
-            } else {
-                if(count > n/3){
-                    ans.add(nums[i-1]);
-                }
-                count = 1;
-            }
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int i=0; i<n; i++){
+            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
         }
-        if(count > n/3){
-            ans.add(nums[n-1]);
+        for(int key : map.keySet()){
+            if(map.get(key) > n/3){
+                ans.add(key);
+            }
         }
         return ans;
     }
