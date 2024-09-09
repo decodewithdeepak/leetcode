@@ -1,17 +1,18 @@
 class Solution {
     public int majorityElement(int[] nums) {
-        // HashMap - O(n) approach
         int n = nums.length;
-        HashMap<Integer, Integer> map = new HashMap<>();
-        // key -> element, value -> frequency
-        for(int i=0; i<n; i++){
-            map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-        }
-        for(int key : map.keySet()){
-            if(map.get(key) > n/2){
-                return key;
+        int candidate = nums[0], count = 1;
+        for(int i=1; i<n; i++){
+            if(nums[i] == candidate){ // same candidate
+                count++;
+            } else { // different candidate
+                count--;
+            }
+            if(count == 0){ // new candidate
+                candidate = nums[i];
+                count = 1;
             }
         }
-        return -1; // no majority element
+        return candidate;
     }
 }
