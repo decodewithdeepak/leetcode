@@ -1,15 +1,15 @@
 class Solution {
-    public boolean isPalindrome(int x) {
-        if (x < 0) return false; // negative no
+    public boolean isPalindrome(int n) {
+        if (n < 0) return false; // negative no
+        return n == reverse(n);
+    }
 
-        String str = Integer.toString(x);
-        int i = 0, j = str.length()-1; // two pointers
+    static int reverse(int n) { // O(n)
+        if (n < 10) return n; // base case
 
-        while(i<j){
-            if (str.charAt(i) != str.charAt(j)) return false;
-            i++;
-            j--;
-        }
-        return true;
+        int smallAns = reverse(n / 10);
+        int lastDigit = n % 10;
+        int noOfDigits = (int) Math.log10(n);
+        return smallAns + lastDigit * (int) Math.pow(10, noOfDigits);
     }
 }
