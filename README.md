@@ -63,6 +63,7 @@ Leetcode Solutions to the the problems i solved
 | [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/decodewithdeepak/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/decodewithdeepak/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/decodewithdeepak/leetcode/tree/master/0058-length-of-last-word) |
@@ -226,6 +227,7 @@ Leetcode Solutions to the the problems i solved
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/decodewithdeepak/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/decodewithdeepak/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0234-palindrome-linked-list) |
