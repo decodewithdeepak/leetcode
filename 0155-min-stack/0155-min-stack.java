@@ -1,5 +1,4 @@
 class MinStack {
-
     Stack<Integer> st = new Stack<>();
     int min = Integer.MAX_VALUE;
 
@@ -16,18 +15,13 @@ class MinStack {
     }
 
     public void pop() {
-        if (!st.isEmpty()) {
-            if (st.peek() == min) {
-                st.pop();
-                min = st.peek();
-            }
-            st.pop();
+        if (st.pop() == min) {
+            min = st.pop();
         }
     }
 
     public int top() {
-        if (st.isEmpty()) return -1;
-        else return st.peek();
+        return st.peek();
     }
 
     public int getMin() {
