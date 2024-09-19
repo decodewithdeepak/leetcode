@@ -39,6 +39,7 @@ Leetcode Solutions to the the problems i solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/decodewithdeepak/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/decodewithdeepak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/decodewithdeepak/leetcode/tree/master/0027-remove-element) |
@@ -104,6 +105,7 @@ Leetcode Solutions to the the problems i solved
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/decodewithdeepak/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/decodewithdeepak/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -246,6 +248,7 @@ Leetcode Solutions to the the problems i solved
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/decodewithdeepak/leetcode/tree/master/0011-container-with-most-water) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
