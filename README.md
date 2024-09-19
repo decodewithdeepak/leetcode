@@ -35,6 +35,7 @@ Leetcode Solutions to the the problems i solved
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
 | [0412-fizz-buzz](https://github.com/decodewithdeepak/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
+| [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ Leetcode Solutions to the the problems i solved
 | [0907-koko-eating-bananas](https://github.com/decodewithdeepak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/decodewithdeepak/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -178,6 +180,7 @@ Leetcode Solutions to the the problems i solved
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
@@ -210,6 +213,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0229-majority-element-ii) |
+| [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
