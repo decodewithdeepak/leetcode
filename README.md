@@ -27,6 +27,7 @@ Leetcode Solutions to the the problems i solved
 | [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/decodewithdeepak/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/decodewithdeepak/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/decodewithdeepak/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/decodewithdeepak/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -119,6 +120,7 @@ Leetcode Solutions to the the problems i solved
 | [0053-maximum-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/decodewithdeepak/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/decodewithdeepak/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
