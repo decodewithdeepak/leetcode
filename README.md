@@ -59,6 +59,7 @@ Leetcode Solutions to the the problems i solved
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/decodewithdeepak/leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -79,6 +80,7 @@ Leetcode Solutions to the the problems i solved
 | [0205-isomorphic-strings](https://github.com/decodewithdeepak/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/decodewithdeepak/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/decodewithdeepak/leetcode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/decodewithdeepak/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -93,6 +95,7 @@ Leetcode Solutions to the the problems i solved
 | [0118-pascals-triangle](https://github.com/decodewithdeepak/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/decodewithdeepak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/decodewithdeepak/leetcode/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
