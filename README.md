@@ -10,10 +10,12 @@ Leetcode Solutions to the the problems i solved
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/decodewithdeepak/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/decodewithdeepak/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Graph
 |  |
@@ -312,4 +314,12 @@ Leetcode Solutions to the the problems i solved
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
