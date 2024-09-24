@@ -10,7 +10,7 @@ class Solution {
         int carry = 0;
 
         // add the values of nodes and carry
-        while (p1 != null || p2 != null) {
+        while (p1 != null || p2 != null || carry != 0) {
             // sum = carry + p1.val + p2.val
             int sum = carry + (p1 != null ? p1.val : 0) + (p2 != null ? p2.val : 0);
             
@@ -24,11 +24,6 @@ class Solution {
             if (p1 != null) p1 = p1.next;
             if (p2 != null) p2 = p2.next;
             curr = curr.next;
-        }
-
-        // add a new node of carry if it is not 0
-        if (carry != 0) {
-            curr.next = new ListNode(carry);
         }
 
         return dummy.next; // head of sum
