@@ -1,9 +1,15 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        Arrays.sort(nums);
+        // Using Hashing - O(n) time, O(n) space
         List<Integer> dup = new ArrayList<>();
-        for(int i=1; i<nums.length; i++){
-            if(nums[i] == nums[i-1]) dup.add(nums[i]);
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for(int num : nums){
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
+        for(int num : map.keySet()){
+            if(map.get(num) == 2){
+                dup.add(num);
+            }
         }
         return dup;
     }
