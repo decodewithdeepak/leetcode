@@ -145,6 +145,7 @@ Leetcode Solutions to the the problems i solved
 | [0238-product-of-array-except-self](https://github.com/decodewithdeepak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/decodewithdeepak/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/decodewithdeepak/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -191,6 +192,7 @@ Leetcode Solutions to the the problems i solved
 | [0229-majority-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/decodewithdeepak/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
