@@ -293,6 +293,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0002-add-two-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/decodewithdeepak/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/decodewithdeepak/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/decodewithdeepak/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0142-linked-list-cycle-ii) |
