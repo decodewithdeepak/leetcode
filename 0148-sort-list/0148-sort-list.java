@@ -13,21 +13,27 @@ class Solution {
         // Merge Sort - O(nlogn) time and O(logn) space
 
         if (head == null || head.next == null) return head;
-
+        
         // find the middle
-        ListNode middle = middleNode(head);
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
 
-        // divide the list into two parts
-        ListNode leftHead = head;
-        ListNode rightHead = middle.next;
-        middle.next = null;
+        while (fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
 
-        // sort the two parts recursively
-        leftHead = sortList(leftHead);
-        rightHead = sortList(rightHead);
+        // break the list into two halves
+        prev.next = null;
 
-        // merge the two sorted parts
-        return merge(leftHead, rightHead);
+        // sort the two halves
+        ListNode leftHead = sortList(head);
+        ListNode righthead = sortList(slow);
+
+        // merge the two sorted halves
+        return merge(leftHead, righthead);
     }
 
     public ListNode merge(ListNode l1, ListNode l2) {
@@ -51,19 +57,5 @@ class Solution {
         if (l2 != null) curr.next = l2;
 
         return dummy.next;
-    }
-
-    public ListNode middleNode(ListNode head) {
-        // (left middle for even length)
-        ListNode slow = head;
-        ListNode fast = head.next;
-
-        // move slow by 1 and fast by 2
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-
-        return slow;
     }
 }
