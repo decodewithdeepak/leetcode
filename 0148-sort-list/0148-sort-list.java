@@ -10,25 +10,60 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        // Brute Force - O(nlogn) time and O(n) space
-        if(head==null || head.next==null) return head;
+        // Merge Sort - O(nlogn) time and O(logn) space
 
-        ListNode temp=head;
-        ArrayList<Integer> arr=new ArrayList<>();
-        while(temp!=null){
-            arr.add(temp.val);
-            temp=temp.next;
+        if (head == null || head.next == null) return head;
+
+        // find the middle
+        ListNode middle = middleNode(head);
+
+        // divide the list into two parts
+        ListNode leftHead = head;
+        ListNode rightHead = middle.next;
+        middle.next = null;
+
+        // sort the two parts recursively
+        leftHead = sortList(leftHead);
+        rightHead = sortList(rightHead);
+
+        // merge the two sorted parts
+        return merge(leftHead, rightHead);
+    }
+
+    public ListNode merge(ListNode l1, ListNode l2) {
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
+
+        // merge two sorted lists
+        while (l1 != null && l2 != null) {
+            if (l1.val < l2.val) {
+                curr.next = l1;
+                l1 = l1.next;
+            } else {
+                curr.next = l2;
+                l2 = l2.next;
+            }
+            curr = curr.next;
         }
 
-        Collections.sort(arr);
-        temp=head;
-        int i=0;
-        while(temp!=null){
-            temp.val=arr.get(i);
-            i++;
-            temp=temp.next;
+        // attach any remaining elements
+        if (l1 != null) curr.next = l1;
+        if (l2 != null) curr.next = l2;
+
+        return dummy.next;
+    }
+
+    public ListNode middleNode(ListNode head) {
+        // (right middle for even length)
+        ListNode slow = head;
+        ListNode fast = head.next;
+
+        // move slow by 1 and fast by 2
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        return head;
+        return slow;
     }
 }
