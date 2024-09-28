@@ -54,7 +54,7 @@ class Solution {
     }
 
     public ListNode middleNode(ListNode head) {
-        // (right middle for even length)
+        // (left middle for even length)
         ListNode slow = head;
         ListNode fast = head.next;
 
