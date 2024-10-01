@@ -11,6 +11,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/decodewithdeepak/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -331,10 +332,12 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
