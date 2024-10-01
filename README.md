@@ -13,11 +13,13 @@ Leetcode Solutions to the the problems i solved
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/decodewithdeepak/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/decodewithdeepak/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Leetcode Solutions to the the problems i solved
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
 | ------- |
@@ -333,11 +336,13 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Merge Sort
 |  |
 | ------- |
