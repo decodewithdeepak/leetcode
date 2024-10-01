@@ -216,6 +216,7 @@ Leetcode Solutions to the the problems i solved
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/decodewithdeepak/leetcode/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
@@ -225,6 +226,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/decodewithdeepak/leetcode/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
@@ -335,12 +337,14 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Merge Sort
