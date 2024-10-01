@@ -171,6 +171,7 @@ Leetcode Solutions to the the problems i solved
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/decodewithdeepak/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/decodewithdeepak/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/decodewithdeepak/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -287,6 +288,7 @@ Leetcode Solutions to the the problems i solved
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/decodewithdeepak/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -336,6 +338,7 @@ Leetcode Solutions to the the problems i solved
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/decodewithdeepak/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
