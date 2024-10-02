@@ -1,19 +1,21 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
+        // Using Stack - O(n*m) - Concept of Largest Rectangle in Histogram
         if (matrix.length == 0) return 0;
-
-        int m = matrix.length, n = matrix[0].length;
-        int[] heights = new int[n];
+        
+        int r = matrix.length; // rows
+        int c = matrix[0].length; // columns
         int maxArea = 0;
 
-        // Iterate over each row and calculate largest rectangle
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                // If matrix[i][j] is '1', increase the height; otherwise, reset to 0
-                heights[j] = matrix[i][j] == '1' ? heights[j] + 1 : 0;
+        int[] heights = new int[c];
+        for (int i = 0; i < r; i++) {
+            // calculate heights array
+            for (int j = 0; j < c; j++) {
+                // If matrix[i][j] is '1'-> increase the height; otherwise reset to 0
+                if (matrix[i][j] == '1') heights[j]++;
+                else heights[j] = 0;
             }
-
-            // Calculate the largest rectangle area for the current row's histogram
+            // calculate max area
             maxArea = Math.max(maxArea, largestRectangleArea(heights));
         }
 
