@@ -1,48 +1,48 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        // Using Stack - O(n) - Concept of NSE and PSE
+        int n = heights.length;
         int maxArea = 0;
-        
-        int[] ps = prevSmaller(heights);
-        int[] ns = nextSmaller(heights);
 
-        for (int i = 0; i < heights.length; i++) {
-            int currArea = heights[i] * (ns[i] - ps[i] - 1);
-            maxArea = Math.max(maxArea, currArea);
+        // Using common helper functions for PSE and NSE
+        int[] left = prevSmaller(heights);
+        int[] right = nextSmaller(heights);
+
+        for (int i = 0; i < n; i++) {
+            int width = right[i] - left[i] - 1; // width of the rectangle
+            int area = heights[i] * width; // height * width
+            maxArea = Math.max(maxArea, area);
         }
 
         return maxArea;
     }
 
-    private int[] nextSmaller(int[] arr) {
+    // Finds Previous Smaller Element (PSE) for each index
+    public static int[] prevSmaller(int[] arr) {
         int n = arr.length;
-        int[] ans = new int[n];
+        int[] left = new int[n];
         Stack<Integer> st = new Stack<>();
-
-        for (int i = n - 1; i >= 0; i--) {
-            while (!st.isEmpty() && arr[i] <= arr[st.peek()]) {
-                st.pop();
-            }
-            ans[i] = st.isEmpty() ? n : st.peek();
-            st.push(i);
-        }
-
-        return ans;
-    }
-
-    private int[] prevSmaller(int[] arr) {
-        int n = arr.length;
-        int[] ans = new int[n];
-        Stack<Integer> st = new Stack<>();
-
         for (int i = 0; i < n; i++) {
             while (!st.isEmpty() && arr[i] <= arr[st.peek()]) {
                 st.pop();
             }
-            ans[i] = st.isEmpty() ? -1 : st.peek();
+            left[i] = st.isEmpty() ? -1 : st.peek();
             st.push(i);
         }
+        return left;
+    }
 
-        return ans;
+    // Finds Next Smaller Element (NSE) for each index
+    public static int[] nextSmaller(int[] arr) {
+        int n = arr.length;
+        int[] right = new int[n];
+        Stack<Integer> st = new Stack<>();
+        for (int i = n - 1; i >= 0; i--) {
+            while (!st.isEmpty() && arr[i] < arr[st.peek()]) {
+                st.pop();
+            }
+            right[i] = st.isEmpty() ? n : st.peek();
+            st.push(i);
+        }
+        return right;
     }
 }
