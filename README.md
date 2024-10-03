@@ -37,6 +37,7 @@ Leetcode Solutions to the the problems i solved
 | [0069-sqrtx](https://github.com/decodewithdeepak/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/decodewithdeepak/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/decodewithdeepak/leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
