@@ -1,16 +1,14 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        
-        // Iterate through all possible pairs of numbers
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return new int[] { i, j };
+        // Brute Force Approach - O(n^2)
+        int n = nums.length;
+        for(int i=0; i<n; i++){
+            for(int j=i+1; j<n; j++){
+                if(nums[i] + nums[j] == target){
+                    return new int[]{i, j};
                 }
             }
         }
-        
-        // If no solution is found
-        return new int[0];
+        return null;
     }
 }
