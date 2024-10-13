@@ -361,6 +361,7 @@ Leetcode Solutions to the the problems i solved
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/decodewithdeepak/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -369,9 +370,14 @@ Leetcode Solutions to the the problems i solved
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/decodewithdeepak/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/decodewithdeepak/leetcode/tree/master/0148-sort-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/decodewithdeepak/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
