@@ -1,5 +1,6 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
+        // Using Stack: O(n)
         int n = nums.length;
         int[] ans = new int[n - k + 1];
         Stack<Integer> st = new Stack<>();
