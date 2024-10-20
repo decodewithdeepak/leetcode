@@ -94,6 +94,7 @@ Leetcode Solutions to the the problems i solved
 | [0392-is-subsequence](https://github.com/decodewithdeepak/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/decodewithdeepak/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/decodewithdeepak/leetcode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/decodewithdeepak/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/decodewithdeepak/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
