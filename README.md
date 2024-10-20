@@ -96,6 +96,7 @@ Leetcode Solutions to the the problems i solved
 | [0402-remove-k-digits](https://github.com/decodewithdeepak/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/decodewithdeepak/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/decodewithdeepak/leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/decodewithdeepak/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/decodewithdeepak/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -220,6 +221,7 @@ Leetcode Solutions to the the problems i solved
 | [0442-find-all-duplicates-in-an-array](https://github.com/decodewithdeepak/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/decodewithdeepak/leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
