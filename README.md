@@ -33,6 +33,7 @@ Leetcode Solutions to the the problems i solved
 | [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/decodewithdeepak/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/decodewithdeepak/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/decodewithdeepak/leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/decodewithdeepak/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -113,6 +114,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/decodewithdeepak/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
