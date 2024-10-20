@@ -174,6 +174,7 @@ Leetcode Solutions to the the problems i solved
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/decodewithdeepak/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
@@ -201,6 +202,7 @@ Leetcode Solutions to the the problems i solved
 | [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/decodewithdeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -320,6 +322,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/decodewithdeepak/leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/decodewithdeepak/leetcode/tree/master/0402-remove-k-digits) |
+| [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -408,4 +411,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/decodewithdeepak/leetcode/tree/master/0239-sliding-window-maximum) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
