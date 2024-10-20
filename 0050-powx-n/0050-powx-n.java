@@ -8,8 +8,13 @@ class Solution {
         // if n is odd -> x^n = x^(n/2) * x^(n/2) * x
 
         double smallPow = myPow(x, n / 2);
+
+        if (n < 0) {
+            x = 1 / x;
+            n = -n;
+        }
+
         if (n % 2 == 0) return smallPow * smallPow; // even n
-        else if (n > 0) return smallPow * smallPow * x; // odd n
-        else return smallPow * smallPow / x; // negative n
+        else return smallPow * smallPow * x; // odd n
     }
 }
