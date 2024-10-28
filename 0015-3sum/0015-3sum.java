@@ -1,37 +1,42 @@
 public class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-        Arrays.sort(nums);
-        for(int i=0; i<nums.length; i++){
-            // a+b+c = 0 => b+c = -a
-            // duplicate a
-            if(i == 0 || (i>0 && nums[i] != nums[i-1])){
-                twoSumSorted(i+1, nums.length-1, nums, -nums[i], res);
+
+        Arrays.sort(nums); 
+        // so that we can appply two pointer technique and skip duplicates
+
+        for (int i = 0; i < nums.length - 2; i++) {
+            // a+b+c = 0 => b+c = -a = target
+            if (i == 0 || nums[i] != nums[i - 1]) { // skip duplicate a
+                int low = i + 1;
+                int high = nums.length - 1;
+                int target = -nums[i];
+
+                while (low < high) {
+                    int sum = nums[low] + nums[high];
+                    if (sum == target) {
+                        List<Integer> list = new ArrayList<>();
+                        list.add(nums[i]);
+                        list.add(nums[low]);
+                        list.add(nums[high]);
+                        res.add(list);
+
+                        // skip duplicate b
+                        while (low < high && nums[low] == nums[low + 1]) low++;
+                        // skip duplicate c
+                        while (low < high && nums[high] == nums[high - 1]) high--;
+
+                        low++;
+                        high--;
+                    } else if (sum < target) {
+                        low++;
+                    } else {
+                        high--;
+                    }
+                }
             }
         }
+
         return res;
-    }
-
-    void twoSumSorted(int i, int j, int[] nums, int target, List<List<Integer>> res){
-        int a1 = nums[i-1];
-        while(i<j){
-            int sum = nums[i] + nums[j];
-            if(sum == target){
-                List<Integer> list = new ArrayList<>();
-                list.add(a1); list.add(nums[i]); list.add(nums[j]);
-                res.add(list);
-
-                i++; j--;
-                
-                // duplicate b
-                while(i<j && nums[i] == nums[i-1]) i++;
-                // duplicate c
-                while(i<j && nums[j] == nums[j+1]) j--;
-            } else if(sum < target){
-                i++;
-            } else {
-                j--;
-            }
-        }
     }
 }
