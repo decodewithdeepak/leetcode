@@ -184,6 +184,7 @@ Leetcode Solutions to the the problems i solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/decodewithdeepak/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/decodewithdeepak/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -268,6 +269,7 @@ Leetcode Solutions to the the problems i solved
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/decodewithdeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/decodewithdeepak/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -286,6 +288,7 @@ Leetcode Solutions to the the problems i solved
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/decodewithdeepak/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/decodewithdeepak/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -419,6 +422,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/decodewithdeepak/leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -439,4 +443,16 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
