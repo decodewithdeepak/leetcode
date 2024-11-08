@@ -101,6 +101,7 @@ Leetcode Solutions to the the problems i solved
 | [0242-valid-anagram](https://github.com/decodewithdeepak/leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/decodewithdeepak/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/decodewithdeepak/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/decodewithdeepak/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/decodewithdeepak/leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/decodewithdeepak/leetcode/tree/master/0742-to-lower-case) |
@@ -132,6 +133,7 @@ Leetcode Solutions to the the problems i solved
 | [0231-power-of-two](https://github.com/decodewithdeepak/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/decodewithdeepak/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -341,6 +343,7 @@ Leetcode Solutions to the the problems i solved
 | [0225-implement-stack-using-queues](https://github.com/decodewithdeepak/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/decodewithdeepak/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/decodewithdeepak/leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/decodewithdeepak/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
