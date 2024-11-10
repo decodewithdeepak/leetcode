@@ -32,6 +32,7 @@ Leetcode Solutions to the the problems i solved
 | [0009-palindrome-number](https://github.com/decodewithdeepak/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/decodewithdeepak/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/decodewithdeepak/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/decodewithdeepak/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/decodewithdeepak/leetcode/tree/master/0066-plus-one) |
@@ -282,6 +283,7 @@ Leetcode Solutions to the the problems i solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/decodewithdeepak/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/decodewithdeepak/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/decodewithdeepak/leetcode/tree/master/0231-power-of-two) |
