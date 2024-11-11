@@ -1,17 +1,23 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        // Brute Force - O(n^2)
-        List<List<Integer>> result = new ArrayList<>();
-        result.add(new ArrayList<>()); // add the empty subset
-        for (int num : nums) {
-            List<List<Integer>> newSubsets = new ArrayList<>();
-            for (List<Integer> subset : result) {
-                List<Integer> newSubset = new ArrayList<>(subset);
-                newSubset.add(num);
-                newSubsets.add(newSubset);
-            }
-            result.addAll(newSubsets);
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> subset = new ArrayList<>();
+        backtrack(nums, 0, subset, res);
+        return res;
+    }
+
+    private void backtrack(int[] nums, int idx, List<Integer> subset, List<List<Integer>> res){
+        if(idx == nums.length){ // if we reach the end of the array
+            res.add(new ArrayList<>(subset));
+            return;
         }
-        return result;
+
+        // add the current element
+        subset.add(nums[idx]);
+        backtrack(nums, idx+1, subset, res);
+
+        // dont add the current element
+        subset.remove(subset.size()-1);
+        backtrack(nums, idx+1, subset, res);
     }
 }
