@@ -6,6 +6,7 @@ Leetcode Solutions to the the problems i solved
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/decodewithdeepak/leetcode/tree/master/0078-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/decodewithdeepak/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -164,6 +165,7 @@ Leetcode Solutions to the the problems i solved
 | [0066-plus-one](https://github.com/decodewithdeepak/leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/decodewithdeepak/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/decodewithdeepak/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/decodewithdeepak/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -284,6 +286,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/decodewithdeepak/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/decodewithdeepak/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/decodewithdeepak/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/decodewithdeepak/leetcode/tree/master/0231-power-of-two) |
