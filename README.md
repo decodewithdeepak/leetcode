@@ -472,6 +472,7 @@ Leetcode Solutions to the the problems i solved
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/decodewithdeepak/leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/decodewithdeepak/leetcode/tree/master/0584-find-customer-referee) |
 | [1258-article-views-i](https://github.com/decodewithdeepak/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/decodewithdeepak/leetcode/tree/master/1827-invalid-tweets) |
