@@ -1,10 +1,8 @@
 class Solution {
     public boolean searchMatrix(int[][] arr, int target) {
-        int m = arr.length; //rows
-        if (m == 0) return false;
-
-        int n = arr[0].length; //columns
-        if (n == 0) return false;
+        int m = arr.length; // rows
+        int n = arr[0].length; // columns
+        if (m == 0 || n == 0) return false;
 
         int i = 0, j = n - 1;
 
