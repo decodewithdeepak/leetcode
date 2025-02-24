@@ -56,6 +56,7 @@ Leetcode Solutions to the the problems i solved
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/decodewithdeepak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/decodewithdeepak/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/decodewithdeepak/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/decodewithdeepak/leetcode/tree/master/0016-3sum-closest) |
@@ -88,6 +89,7 @@ Leetcode Solutions to the the problems i solved
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/decodewithdeepak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/decodewithdeepak/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/decodewithdeepak/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/decodewithdeepak/leetcode/tree/master/0014-longest-common-prefix) |
@@ -117,6 +119,7 @@ Leetcode Solutions to the the problems i solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/decodewithdeepak/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/decodewithdeepak/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/decodewithdeepak/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/decodewithdeepak/leetcode/tree/master/0085-maximal-rectangle) |
