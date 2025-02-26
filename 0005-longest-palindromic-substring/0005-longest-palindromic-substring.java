@@ -1,28 +1,27 @@
 class Solution {
     public String longestPalindrome(String s) {
-        // Brute Force - O(N³)
-        int n = s.length();
-        String longest = "";
-        
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                if (isPalindrome(s, i, j)) {
-                    String sub = s.substring(i, j + 1);
-                    if (sub.length() > longest.length()) {
-                        longest = sub;
-                    }
-                }
+        // Expand Around Center - O(N²)
+
+        int start = 0, maxLen = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            int len1 = expandAroundCenter(s, i, i);     // odd length
+            int len2 = expandAroundCenter(s, i, i + 1); // even length
+            int len = Math.max(len1, len2);
+
+            if (len > maxLen) {
+                maxLen = len;
+                start = i - (len - 1) / 2;
             }
         }
-        return longest;
+        return s.substring(start, start + maxLen);
     }
 
-    private boolean isPalindrome(String s, int left, int right) {
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) return false;
-            left++;
-            right--;
+    private int expandAroundCenter(String s, int left, int right) {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
         }
-        return true;
+        return right - left - 1;
     }
 }
