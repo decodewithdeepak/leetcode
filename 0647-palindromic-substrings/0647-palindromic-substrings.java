@@ -1,24 +1,21 @@
 class Solution {
     public int countSubstrings(String s) {
-        // Brute-force (check all substrings)
+        // Expand Around Center - O(N²)
         int count = 0;
-        int n = s.length();
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                if (isPalindrome(s, i, j)) {
-                    count++;
-                }
-            }
+        for (int i = 0; i < s.length(); i++) {
+            count += expandAroundCenter(s, i, i);     // count odd length palindrome
+            count += expandAroundCenter(s, i, i + 1); // count even length palindrome
         }
         return count;
     }
 
-    private boolean isPalindrome(String s, int left, int right) {
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) return false;
-            left++;
-            right--;
+    private int expandAroundCenter(String s, int left, int right) {
+        int count = 0;
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            count++;
+            left--;
+            right++;
         }
-        return true;
+        return count;
     }
 }
