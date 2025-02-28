@@ -209,6 +209,7 @@ Leetcode Solutions to the the problems i solved
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/decodewithdeepak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/decodewithdeepak/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/decodewithdeepak/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -464,6 +465,7 @@ Leetcode Solutions to the the problems i solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/decodewithdeepak/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/decodewithdeepak/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/decodewithdeepak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
