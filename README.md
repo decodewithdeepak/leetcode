@@ -223,6 +223,7 @@ Leetcode Solutions to the the problems i solved
 | [2058-concatenation-of-array](https://github.com/decodewithdeepak/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/decodewithdeepak/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/decodewithdeepak/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -273,6 +274,7 @@ Leetcode Solutions to the the problems i solved
 | [0782-jewels-and-stones](https://github.com/decodewithdeepak/leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search
 |  |
@@ -322,6 +324,7 @@ Leetcode Solutions to the the problems i solved
 | [0229-majority-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 ## Simulation
 |  |
 | ------- |
