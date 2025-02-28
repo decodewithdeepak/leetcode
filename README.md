@@ -113,6 +113,7 @@ Leetcode Solutions to the the problems i solved
 | [0742-to-lower-case](https://github.com/decodewithdeepak/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/decodewithdeepak/leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/decodewithdeepak/leetcode/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/decodewithdeepak/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -367,6 +368,7 @@ Leetcode Solutions to the the problems i solved
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/decodewithdeepak/leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/decodewithdeepak/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/decodewithdeepak/leetcode/tree/master/2227-sum-of-subarray-ranges) |
@@ -377,6 +379,7 @@ Leetcode Solutions to the the problems i solved
 | [0011-container-with-most-water](https://github.com/decodewithdeepak/leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/decodewithdeepak/leetcode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/decodewithdeepak/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
