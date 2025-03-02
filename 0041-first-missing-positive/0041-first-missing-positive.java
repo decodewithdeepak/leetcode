@@ -1,13 +1,18 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        Arrays.sort(nums); // O(N log N)
-        int smallest = 1;
-
+        HashSet<Integer> set = new HashSet<>();
+        
         for (int num : nums) {
-            if (num == smallest) {
-                smallest++;
+            if (num > 0) {
+                set.add(num);
             }
         }
+
+        int smallest = 1;
+        while (set.contains(smallest)) {
+            smallest++;
+        }
+
         return smallest;
     }
 }
