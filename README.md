@@ -218,6 +218,7 @@ Leetcode Solutions to the the problems i solved
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/decodewithdeepak/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/decodewithdeepak/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -300,6 +301,7 @@ Leetcode Solutions to the the problems i solved
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/decodewithdeepak/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/decodewithdeepak/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1646-kth-missing-positive-number](https://github.com/decodewithdeepak/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
