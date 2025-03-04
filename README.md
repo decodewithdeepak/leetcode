@@ -81,6 +81,7 @@ Leetcode Solutions to the the problems i solved
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/decodewithdeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/decodewithdeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/decodewithdeepak/leetcode/tree/master/0392-is-subsequence) |
@@ -200,6 +201,7 @@ Leetcode Solutions to the the problems i solved
 | [0240-search-a-2d-matrix-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/decodewithdeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/decodewithdeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/decodewithdeepak/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -295,6 +297,7 @@ Leetcode Solutions to the the problems i solved
 | [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/decodewithdeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/decodewithdeepak/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/0493-reverse-pairs) |
@@ -312,6 +315,7 @@ Leetcode Solutions to the the problems i solved
 | [0222-count-complete-tree-nodes](https://github.com/decodewithdeepak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/decodewithdeepak/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/decodewithdeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
