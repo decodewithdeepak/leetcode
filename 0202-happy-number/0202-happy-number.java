@@ -1,16 +1,16 @@
 class Solution {
     public boolean isHappy(int n) {
-        Set<Integer> seen = new HashSet<>();
+        int slow = n, fast = n;
 
-        while (n != 1 && !seen.contains(n)) {
-            seen.add(n);
-            n = getSumOfSquares(n);
-        }
+        do {
+            slow = sumOfSquares(slow);  
+            fast = sumOfSquares(sumOfSquares(fast)); 
+        } while (slow != fast && fast != 1);
 
-        return n == 1;
+        return fast == 1;
     }
 
-    private int getSumOfSquares(int num) {
+    private int sumOfSquares(int num) {
         int sum = 0;
         while (num > 0) {
             int digit = num % 10;
