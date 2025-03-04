@@ -88,6 +88,7 @@ Leetcode Solutions to the the problems i solved
 | [0647-palindromic-substrings](https://github.com/decodewithdeepak/leetcode/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/decodewithdeepak/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/decodewithdeepak/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -228,6 +229,7 @@ Leetcode Solutions to the the problems i solved
 | [2058-concatenation-of-array](https://github.com/decodewithdeepak/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/decodewithdeepak/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2227-sum-of-subarray-ranges](https://github.com/decodewithdeepak/leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/decodewithdeepak/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -343,6 +345,7 @@ Leetcode Solutions to the the problems i solved
 | [0735-asteroid-collision](https://github.com/decodewithdeepak/leetcode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/decodewithdeepak/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/decodewithdeepak/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/decodewithdeepak/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
