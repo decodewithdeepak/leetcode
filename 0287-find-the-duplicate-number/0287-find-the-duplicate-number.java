@@ -1,10 +1,12 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-        while (nums[0] != nums[nums[0]]) {
-            int nxt = nums[nums[0]];
-            nums[nums[0]] = nums[0];
-            nums[0] = nxt;
+        boolean[] seen = new boolean[nums.length];
+        for (int num : nums) {
+            if (seen[num]) {
+                return num;
+            }
+            seen[num] = true;
         }
-        return nums[0];
+        return -1;
     }
 }
