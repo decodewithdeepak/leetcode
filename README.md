@@ -55,6 +55,7 @@ Leetcode Solutions to the the problems i solved
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/decodewithdeepak/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/decodewithdeepak/leetcode/tree/master/2556-convert-the-temperature) |
+| [2649-count-total-number-of-colored-cells](https://github.com/decodewithdeepak/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 ## Two Pointers
 |  |
 | ------- |
