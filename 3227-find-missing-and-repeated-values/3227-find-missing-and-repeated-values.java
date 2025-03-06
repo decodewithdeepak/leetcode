@@ -11,27 +11,32 @@ class Solution {
             }
         }
 
-        // find the repeated and missing values from the 1D array
-        int[] result = new int[2];
+        // now find the repeated and missing values from the 1D array
+        // Leetcode 645. Set Mismatch
 
-        // find repeated value
-        for (int i = 0; i < n * n; i++) {
-            int val = Math.abs(arr[i]);
-            if (arr[val - 1] > 0) {
-                arr[val - 1] = -arr[val - 1];
-            } else {
-                result[0] = val;
+        int[] ans = findErrorNums(arr);
+        return ans;
+
+    }
+
+    public int[] findErrorNums(int[] nums) {
+        int n = nums.length;
+        int rep = -1, mis = -1;
+
+        for (int val = 1; val <= n; val++) { // iterate through possible values (1 to n)
+            int cnt = 0;
+
+            // count occurrences of val in the array
+            for (int i = 0; i < n; i++) {
+                if (nums[i] == val) cnt++;
             }
+
+            if (cnt == 2) rep = val;
+            else if (cnt == 0) mis = val;
+
+            if (rep != -1 && mis != -1) break;
         }
 
-        // find missing value
-        for (int i = 0; i < n * n; i++) {
-            if (arr[i] > 0) {
-                result[1] = i + 1;
-                break;
-            }
-        }
-
-        return result;
+        return new int[]{rep, mis};
     }
 }
