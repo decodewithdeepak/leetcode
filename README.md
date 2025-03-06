@@ -219,6 +219,7 @@ Leetcode Solutions to the the problems i solved
 | [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/decodewithdeepak/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/decodewithdeepak/leetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/decodewithdeepak/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/decodewithdeepak/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -257,6 +258,7 @@ Leetcode Solutions to the the problems i solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/decodewithdeepak/leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -285,6 +287,7 @@ Leetcode Solutions to the the problems i solved
 | [0442-find-all-duplicates-in-an-array](https://github.com/decodewithdeepak/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/decodewithdeepak/leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/decodewithdeepak/leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -325,6 +328,7 @@ Leetcode Solutions to the the problems i solved
 | [0231-power-of-two](https://github.com/decodewithdeepak/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/decodewithdeepak/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/decodewithdeepak/leetcode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
