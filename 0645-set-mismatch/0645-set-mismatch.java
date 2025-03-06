@@ -3,33 +3,18 @@ class Solution {
         int n = nums.length;
         int rep = -1, mis = -1;
 
-        //find the repeated number
-        for (int i = 0; i < n; i++) {
-            int count = 0;
-            for (int j = 0; j < n; j++) {
-                if (nums[j] == nums[i]) {
-                    count++;
-                }
-            }
-            if (count == 2) {
-                rep = nums[i];
-                break;
-            }
-        }
+        for (int val = 1; val <= n; val++) { // iterate through possible values (1 to n)
+            int cnt = 0;
 
-        //find the missing number
-        for (int i = 1; i <= n; i++) {
-            boolean found = false;
-            for (int num : nums) {
-                if (num == i) {
-                    found = true;
-                    break;
-                }
+            // count occurrences of val in the array
+            for (int i = 0; i < n; i++) {
+                if (nums[i] == val) cnt++;
             }
-            if (!found) {
-                mis = i;
-                break;
-            }
+
+            if (cnt == 2) rep = val;
+            else if (cnt == 0) mis = val;
+
+            if (rep != -1 && mis != -1) break;
         }
 
         return new int[]{rep, mis};
