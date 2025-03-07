@@ -55,6 +55,7 @@ Leetcode Solutions to the the problems i solved
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/decodewithdeepak/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/decodewithdeepak/leetcode/tree/master/2556-convert-the-temperature) |
+| [2610-closest-prime-numbers-in-range](https://github.com/decodewithdeepak/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/decodewithdeepak/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/decodewithdeepak/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -525,4 +526,8 @@ Leetcode Solutions to the the problems i solved
 | [1258-article-views-i](https://github.com/decodewithdeepak/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/decodewithdeepak/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/decodewithdeepak/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/decodewithdeepak/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
