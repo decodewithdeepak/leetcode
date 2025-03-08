@@ -127,6 +127,7 @@ Leetcode Solutions to the the problems i solved
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/decodewithdeepak/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
@@ -496,6 +497,7 @@ Leetcode Solutions to the the problems i solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/decodewithdeepak/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/decodewithdeepak/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/decodewithdeepak/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/decodewithdeepak/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
