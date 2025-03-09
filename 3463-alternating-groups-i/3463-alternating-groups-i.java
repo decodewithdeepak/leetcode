@@ -4,11 +4,11 @@ class Solution {
         int count = 0;
 
         for (int i = 0; i < n; i++) {
-            int prev = (i - 1 + n) % n; // circular previous index
-            int next = (i + 1) % n; // circular next index
-            
-            // check if i forms an alt group
-            if (colors[i] != colors[prev] && colors[i] != colors[next]) {
+            int prev = colors[(i - 1 + n) % n]; // circular previous element
+            int curr = colors[i];
+            int next = colors[(i + 1) % n]; // circular next element
+
+            if (curr != prev && curr != next) {
                 count++;
             }
         }
