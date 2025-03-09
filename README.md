@@ -242,6 +242,7 @@ Leetcode Solutions to the the problems i solved
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/decodewithdeepak/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/decodewithdeepak/leetcode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -500,6 +501,7 @@ Leetcode Solutions to the the problems i solved
 | [0643-maximum-average-subarray-i](https://github.com/decodewithdeepak/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/decodewithdeepak/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/decodewithdeepak/leetcode/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
