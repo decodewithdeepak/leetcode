@@ -130,6 +130,7 @@ Leetcode Solutions to the the problems i solved
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/decodewithdeepak/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/decodewithdeepak/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Dynamic Programming
 |  |
@@ -302,6 +303,7 @@ Leetcode Solutions to the the problems i solved
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3227-find-missing-and-repeated-values](https://github.com/decodewithdeepak/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/decodewithdeepak/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Binary Search
 |  |
@@ -507,6 +509,7 @@ Leetcode Solutions to the the problems i solved
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/decodewithdeepak/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/decodewithdeepak/leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/decodewithdeepak/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Heap (Priority Queue)
 |  |
