@@ -124,6 +124,7 @@ Leetcode Solutions to the the problems i solved
 | [0812-rotate-string](https://github.com/decodewithdeepak/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/decodewithdeepak/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/decodewithdeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -294,6 +295,7 @@ Leetcode Solutions to the the problems i solved
 | [0560-subarray-sum-equals-k](https://github.com/decodewithdeepak/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/decodewithdeepak/leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/decodewithdeepak/leetcode/tree/master/0782-jewels-and-stones) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/decodewithdeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -499,6 +501,7 @@ Leetcode Solutions to the the problems i solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/decodewithdeepak/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/decodewithdeepak/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/decodewithdeepak/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/decodewithdeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/decodewithdeepak/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/decodewithdeepak/leetcode/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3483-alternating-groups-ii) |
