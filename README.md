@@ -53,6 +53,7 @@ Leetcode Solutions to the the problems i solved
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/decodewithdeepak/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2187-vowels-of-all-substrings](https://github.com/decodewithdeepak/leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2383-add-two-integers](https://github.com/decodewithdeepak/leetcode/tree/master/2383-add-two-integers) |
 | [2556-convert-the-temperature](https://github.com/decodewithdeepak/leetcode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/decodewithdeepak/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -128,6 +129,7 @@ Leetcode Solutions to the the problems i solved
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2187-vowels-of-all-substrings](https://github.com/decodewithdeepak/leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/decodewithdeepak/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -146,6 +148,7 @@ Leetcode Solutions to the the problems i solved
 | [0647-palindromic-substrings](https://github.com/decodewithdeepak/leetcode/tree/master/0647-palindromic-substrings) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/decodewithdeepak/leetcode/tree/master/1013-fibonacci-number) |
+| [2187-vowels-of-all-substrings](https://github.com/decodewithdeepak/leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -547,4 +550,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/decodewithdeepak/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/decodewithdeepak/leetcode/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
