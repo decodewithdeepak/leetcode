@@ -7,11 +7,10 @@ class Solution {
         int i = 0, j = 0;
 
         while(j < n){
-            char c = s.charAt(j);
-            freq[c - 'a']++;
-            while(freq[0] > 0 && freq[1] > 0 && freq[2] > 0){
-                count += n - j;
-                freq[s.charAt(i) - 'a']--;
+            freq[s.charAt(j) - 'a']++;  // expand window
+            while(freq[0] > 0 && freq[1] > 0 && freq[2] > 0){ // valid substring
+                count += n - j; // add all substrings from j to n
+                freq[s.charAt(i) - 'a']--; // shrink window
                 i++;
             }
             j++;
