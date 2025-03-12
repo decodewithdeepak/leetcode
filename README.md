@@ -235,6 +235,7 @@ Leetcode Solutions to the the problems i solved
 | [0907-koko-eating-bananas](https://github.com/decodewithdeepak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/decodewithdeepak/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -332,6 +333,7 @@ Leetcode Solutions to the the problems i solved
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/decodewithdeepak/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/decodewithdeepak/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/decodewithdeepak/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/decodewithdeepak/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
@@ -387,6 +389,7 @@ Leetcode Solutions to the the problems i solved
 | [0074-search-a-2d-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/decodewithdeepak/leetcode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/decodewithdeepak/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/decodewithdeepak/leetcode/tree/master/3227-find-missing-and-repeated-values) |
