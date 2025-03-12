@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] closestPrimes(int left, int right) {
         List<Integer> primes = new ArrayList<>();
@@ -12,10 +10,8 @@ class Solution {
         }
 
         // find the closest pair
-        if (primes.size() < 2) return new int[]{-1, -1};
-
-        int minDiff = Integer.MAX_VALUE;
         int[] result = new int[]{-1, -1};
+        int minDiff = Integer.MAX_VALUE;
 
         for (int i = 1; i < primes.size(); i++) {
             int diff = primes.get(i) - primes.get(i - 1);
