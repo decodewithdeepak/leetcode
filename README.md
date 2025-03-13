@@ -249,6 +249,7 @@ Leetcode Solutions to the the problems i solved
 | [2265-partition-array-according-to-given-pivot](https://github.com/decodewithdeepak/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/decodewithdeepak/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/decodewithdeepak/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/decodewithdeepak/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/decodewithdeepak/leetcode/tree/master/3463-alternating-groups-i) |
@@ -276,6 +277,7 @@ Leetcode Solutions to the the problems i solved
 | [0628-maximum-product-of-three-numbers](https://github.com/decodewithdeepak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/decodewithdeepak/leetcode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/decodewithdeepak/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Leetcode Solutions to the the problems i solved
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/decodewithdeepak/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/decodewithdeepak/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3227-find-missing-and-repeated-values](https://github.com/decodewithdeepak/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/decodewithdeepak/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -382,6 +385,7 @@ Leetcode Solutions to the the problems i solved
 | [2132-convert-1d-array-into-2d-array](https://github.com/decodewithdeepak/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/decodewithdeepak/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/decodewithdeepak/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/decodewithdeepak/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/decodewithdeepak/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
@@ -437,6 +441,7 @@ Leetcode Solutions to the the problems i solved
 | [0561-array-partition](https://github.com/decodewithdeepak/leetcode/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/decodewithdeepak/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/decodewithdeepak/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/decodewithdeepak/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Trie
 |  |
 | ------- |
@@ -529,6 +534,7 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/decodewithdeepak/leetcode/tree/master/0239-sliding-window-maximum) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/decodewithdeepak/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Queue
 |  |
 | ------- |
