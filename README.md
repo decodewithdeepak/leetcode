@@ -237,6 +237,7 @@ Leetcode Solutions to the the problems i solved
 | [0907-koko-eating-bananas](https://github.com/decodewithdeepak/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-squares-of-a-sorted-array](https://github.com/decodewithdeepak/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/decodewithdeepak/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/decodewithdeepak/leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -339,6 +340,7 @@ Leetcode Solutions to the the problems i solved
 | [0792-binary-search](https://github.com/decodewithdeepak/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/decodewithdeepak/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/decodewithdeepak/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/decodewithdeepak/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/decodewithdeepak/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/decodewithdeepak/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/decodewithdeepak/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
