@@ -1,35 +1,37 @@
 class Solution {
     public int minCapability(int[] nums, int k) {
-        int low = 1, high = 0;
-
-        for(int i=0; i<nums.length; i++){
-            high = Math.max(high, nums[i]);
+        int left = Integer.MAX_VALUE, right = Integer.MIN_VALUE;
+        
+        for (int num : nums) {
+            left = Math.min(left, num);
+            right = Math.max(right, num);
         }
 
-        while(low < high){
-            int mid = low + (high-low)/2;
-
-            if(helper(mid, k, nums)){
-                high = mid;
-            }else{
-                low = mid+1;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (canRob(nums, k, mid)) {
+                right = mid; 
+            } else {
+                left = mid + 1; 
             }
         }
-
-        return high;
+        
+        return left;
     }
 
-    public boolean helper(int max, int k, int[] nums){
-        int cnt = 0, prev = -1;
-        for(int i=0; i<nums.length; i++){
-            if(nums[i] > max || (prev != -1 && i == prev+1 || i == prev-1) ){
-                continue; 
-            }else{
-                prev = i;
-                cnt++;
+    
+    private boolean canRob(int[] nums, int k, int cap) {
+        int count = 0;
+        int i = 0;
+        
+        while (i < nums.length) {
+            if (nums[i] <= cap) { 
+                count++;
+                i++; 
             }
+            i++; 
         }
-
-        return cnt >= k;
+        
+        return count >= k;
     }
 }
