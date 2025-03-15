@@ -43,6 +43,7 @@ Leetcode Solutions to the the problems i solved
 | [0172-factorial-trailing-zeroes](https://github.com/decodewithdeepak/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/decodewithdeepak/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/decodewithdeepak/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/decodewithdeepak/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/decodewithdeepak/leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/decodewithdeepak/leetcode/tree/master/0273-integer-to-english-words) |
@@ -210,6 +211,7 @@ Leetcode Solutions to the the problems i solved
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/decodewithdeepak/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/decodewithdeepak/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/decodewithdeepak/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/decodewithdeepak/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/decodewithdeepak/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/decodewithdeepak/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -568,9 +570,14 @@ Leetcode Solutions to the the problems i solved
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/decodewithdeepak/leetcode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/decodewithdeepak/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Combinatorics
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/decodewithdeepak/leetcode/tree/master/2187-vowels-of-all-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/decodewithdeepak/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
