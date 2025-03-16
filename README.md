@@ -437,6 +437,7 @@ Leetcode Solutions to the the problems i solved
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/decodewithdeepak/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/decodewithdeepak/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/decodewithdeepak/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/decodewithdeepak/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/decodewithdeepak/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -484,6 +485,7 @@ Leetcode Solutions to the the problems i solved
 | [0155-min-stack](https://github.com/decodewithdeepak/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/decodewithdeepak/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/decodewithdeepak/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/decodewithdeepak/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -500,6 +502,7 @@ Leetcode Solutions to the the problems i solved
 | [0496-next-greater-element-i](https://github.com/decodewithdeepak/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/decodewithdeepak/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/decodewithdeepak/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/decodewithdeepak/leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/decodewithdeepak/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/decodewithdeepak/leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
@@ -587,4 +590,8 @@ Leetcode Solutions to the the problems i solved
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/decodewithdeepak/leetcode/tree/master/0204-count-primes) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/decodewithdeepak/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
