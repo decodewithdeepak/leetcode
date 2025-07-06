@@ -247,6 +247,7 @@ Leetcode Solutions to the the problems i solved
 | [1646-kth-missing-positive-number](https://github.com/decodewithdeepak/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/decodewithdeepak/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/decodewithdeepak/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/decodewithdeepak/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2058-concatenation-of-array](https://github.com/decodewithdeepak/leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/decodewithdeepak/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -320,6 +321,7 @@ Leetcode Solutions to the the problems i solved
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/decodewithdeepak/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1635-number-of-good-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/decodewithdeepak/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/decodewithdeepak/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/decodewithdeepak/leetcode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/decodewithdeepak/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/decodewithdeepak/leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -497,6 +499,7 @@ Leetcode Solutions to the the problems i solved
 | [0225-implement-stack-using-queues](https://github.com/decodewithdeepak/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/decodewithdeepak/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/decodewithdeepak/leetcode/tree/master/0937-online-stock-span) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/decodewithdeepak/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
