@@ -59,6 +59,7 @@ Leetcode Solutions to the the problems i solved
 | [2556-convert-the-temperature](https://github.com/decodewithdeepak/leetcode/tree/master/2556-convert-the-temperature) |
 | [2610-closest-prime-numbers-in-range](https://github.com/decodewithdeepak/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/decodewithdeepak/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2752-sum-multiples](https://github.com/decodewithdeepak/leetcode/tree/master/2752-sum-multiples) |
 | [3227-find-missing-and-repeated-values](https://github.com/decodewithdeepak/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
